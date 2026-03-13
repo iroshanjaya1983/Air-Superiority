@@ -23,7 +23,7 @@ E / Right Click	Launch Counter-Measure (Anti-Missile)
 How to Play Locally
 Clone the repository or download the source code.
 Navigate to the project folder.
-Open the index.html file in any modern web browser (Chrome, Firefox, Edge, Safari).
+Open the Air Superiority.html file in any modern web browser (Chrome, Firefox, Edge, Safari).
 Technical Stack
 HTML5 Canvas: For rendering the 2D game world, particles, and entities.
 Vanilla JavaScript: For game logic, physics loops, and state management.
