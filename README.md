@@ -22,7 +22,6 @@ Space / Left Click	Fire Missile (Auto-locks nearest target)
 E / Right Click	Launch Counter-Measure (Anti-Missile)
 How to Play Locally
 Clone the repository or download the source code.
-git clone https://github.com/your-username/air-superiority.git
 Navigate to the project folder.
 Open the index.html file in any modern web browser (Chrome, Firefox, Edge, Safari).
 Technical Stack
